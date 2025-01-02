@@ -3,8 +3,8 @@ version: 0.2
 env:
   variables:
     AWS_REGION: "us-east-1"
-    APP_NAME: "wpapp-ue1-wp-dmdlpps-eb-app-test"
-    ENV_NAME: "wpapp-ue1-wp-dmdlpps-eb-env "
+    APP_NAME: "tf-modules-ue1-cb-d-eb-app"
+    ENV_NAME: "tf-modules-ue1-cb-d-eb-env"
     S3_BUCKET_NAME: "elasticbeanstalk-us-east-1-426857564226"
     S3_KEY: "app/staging"
 
